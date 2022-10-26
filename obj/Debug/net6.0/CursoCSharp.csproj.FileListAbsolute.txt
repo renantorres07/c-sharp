@@ -13,3 +13,6 @@ C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refi
 C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Renan Torres\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
